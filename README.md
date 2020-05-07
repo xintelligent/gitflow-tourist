@@ -43,15 +43,15 @@ tags: git
 
 towerid 是**必须**存在的，如果不存在请联系项目组长
 
-#### feature分支
+#### feature 分支
 
 feature 分支命名**必须**遵循 feature-{yourname}/{featurename}#{towerid}
 
-#### hotfixes分支
+#### hotfixes 分支
 
 hotfixes 分支命名**必须**遵循 hotfix-{yourname}/{hotfixname}#{towerid}
 
-#### fix分支
+#### fix 分支
 
 fix 分支命名**必须**遵循 fix-{yourname}/{fixname}#{towerid}
 
