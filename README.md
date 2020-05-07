@@ -33,7 +33,7 @@ tags: git
 
 - hotfixes —— 紧急分支，用于修改 master 分支上的错误，修改后**必须**将此分支合并到 master 和 develop 分支
 - feature —— 功能分支，功能分支**必须**从 dev 分支切出，完成后提交 pr，review 后**必须**合并到 develop
-- fix —— bug 修复分支，用与修改非生产环境出现的bug
+- fix —— bug 修复分支，用与修改非生产环境出现的 bug
 
 
 
