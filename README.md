@@ -55,14 +55,6 @@ hotfixes分支命名**必须**遵循hotfix-{yourname}/{hotfixname}#{towerid}。
 
 fix分支命名**必须**遵循fix-{yourname}/{fixname}#{towerid}。
 
-*注：
-
-- yourname —— 姓名，如：songjian。
-- featurename —— 功能分支名，如add-login。
-- hotfixes —— 紧急分支名，如hotfix-user-cant-upload。
-- fix —— bug分支名，如fix-user-cant-upload。
-- towerid —— 对应的towerid，如果存在就写。
-
 
 
 # pull request
